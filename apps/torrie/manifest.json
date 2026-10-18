@@ -1,0 +1,16 @@
+{
+  "id": "torrie",
+  "name": "Torrie",
+  "author": "Kronz",
+  "description": "A fast, simple, open-source BitTorrent client for macOS. Magnet links, file selection, a peers and trackers inspector, scheduled speed limits, streaming playback, a menu bar item, plugins, and a web remote with a JSON-RPC API.",
+  "category": "work",
+  "platforms": [
+    "macOS"
+  ],
+  "website": "https://torrie.download",
+  "source": "https://github.com/kronzhq/torrie",
+  "publishedAt": "2026-10-18T00:00:00Z",
+  "previews": [
+    "preview0.png"
+  ]
+}
